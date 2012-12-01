@@ -2365,8 +2365,8 @@
     <string name="pc_init_d">Habilitar/Deshabilitar Tweaks</string>
     <string name="ps_init_d">Configurar tweaks que arrancan en el inicio</string>
     <string name="pc_init_d_tweaks">Personalizar Tweaks</string>
-    <string name="pt_zipalign">Zipalign aplicaciones</string>
-    <string name="ps_zipalign">zipalign cuanquier unaligned aplicación en cada arranque</string>
+    <string name="pt_zipalign">Zipalignear aplicaciones</string>
+    <string name="ps_zipalign">zipalignear toda aplicación unaligneada en cada arranque</string>
     <string name="pt_enable_sd_boost">Habilitar SD boost</string>
     <string name="ps_enable_sd_boost">Habilitar/deshabilitar aumento velocidad tarjeta SD</string>
     <string name="pt_sd_boost">Valores de lectura</string>
