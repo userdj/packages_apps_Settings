@@ -2352,7 +2352,7 @@
     <string name="clock_date_string_edittext_summary">Introducir entrada</string>
     <string name="clock_color_title">Color del reloj</string>
 
-    <string name="advanced_settings_title">Opciones Unidads</string>
+    <string name="advanced_settings_title">Opciones avanzadas</string></string>
 
     <string name="statusbar_settings_title">Barra de estado</string>
 
@@ -2677,7 +2677,7 @@
     <string name="status_bar_toggle_brightness_sliding_summary">Permite adjustar el brillo al deslizar el dedo por la barra de estado</string>
 
     <string name="build_properties_title">Propiedades de la Build</string>
-    <string name="development_tools_title">Herramients del desarrollador</string>
+    <string name="development_tools_title">Iniciar Herramientas</string>
     <string name="device_info_title">Información del Terminal</string>
     <string name="debug_misc_category">Miscelánea</string>
 
